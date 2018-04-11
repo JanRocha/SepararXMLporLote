@@ -1,0 +1,43 @@
+unit xml;
+
+interface
+
+implementation
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls,xmldom, XMLIntf,XMLDoc;
+  type
+    TXML = class(Tobject)
+  private
+    FLoteCFe: IXMLNode;
+    Fxml: IXMLDocument;
+  published
+    property LoteCFe : IXMLNode read FLoteCFe write FLoteCFe;
+    property xml: IXMLDocument   read Fxml     write Fxml;
+
+    end;
+
+      TLoteXML = class(TXML)
+  private
+    FcaminhoXMO: string;
+  published
+        property caminhoXMO: string read FcaminhoXMO write FcaminhoXMO;
+  public
+        procedure CarregarArquivo;
+        constructor create;
+      end;
+
+
+{ TLoteXML }
+
+procedure TLoteXML.CarregarArquivo;
+begin
+//
+end;
+
+constructor TLoteXML.create;
+begin
+
+end;
+
+end.

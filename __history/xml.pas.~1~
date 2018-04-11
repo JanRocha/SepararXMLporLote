@@ -1,0 +1,17 @@
+unit xml;
+
+interface
+
+implementation
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+  type
+      TLoteXML = class(TObject)
+  private
+    FcaminhoXMO: string;
+  published
+        property caminhoXMO: string read FcaminhoXMO write FcaminhoXMO;
+      end;
+
+end.

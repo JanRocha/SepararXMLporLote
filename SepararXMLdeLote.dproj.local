@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/04/10 21:43:46.000.385,=C:\Users\Programador\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/04/10 21:45:09.000.067,C:\Users\Programador\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Projetos\1 - Delphi\SepararXMLdeLote\untPrincipal.pas</Transaction>
+    <Transaction>2018/04/10 21:45:09.000.067,C:\Users\Programador\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Projetos\1 - Delphi\SepararXMLdeLote\untPrincipal.dfm</Transaction>
+    <Transaction>2018/04/10 21:45:24.000.007,C:\Users\Programador\Documents\Embarcadero\Studio\Projects\Project2.dproj=D:\Projetos\1 - Delphi\SepararXMLdeLote\SepararXMLdeLote.dproj</Transaction>
+    <Transaction>2018/04/10 21:49:53.000.991,=D:\Projetos\1 - Delphi\SepararXMLdeLote\Unit1.pas</Transaction>
+    <Transaction>2018/04/10 21:55:25.000.578,D:\Projetos\1 - Delphi\SepararXMLdeLote\Unit1.pas=D:\Projetos\1 - Delphi\SepararXMLdeLote\xml.pas</Transaction>
+    <Transaction>2018/04/10 22:16:25.000.967,D:\Projetos\1 - Delphi\SepararXMLdeLote\xml.pas=D:\Projetos\1 - Delphi\SepararXMLdeLote\xmllote.pas</Transaction>
+    <Transaction>2018/04/10 22:28:02.995,=D:\Projetos\1 - Delphi\SepararXMLdeLote\Unit1.pas</Transaction>
+    <Transaction>2018/04/10 22:29:25.862,D:\Projetos\1 - Delphi\SepararXMLdeLote\Unit1.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
